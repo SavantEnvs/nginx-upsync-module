@@ -1,0 +1,4 @@
+GET /v1/kv/upstreams/test?recurse&index=42&wait=60s HTTP/1.1
+Host: 127.0.0.1:8500
+Accept: */*
+

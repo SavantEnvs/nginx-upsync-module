@@ -1,0 +1,1 @@
+[{"LockIndex":0,"Key":"upstreams/test/127.0.0.1:11111","Flags":0,"Value":"eyJ3ZWlnaHQiOjEsICJtYXhfZmFpbHMiOjIsICJmYWlsX3RpbWVvdXQiOjEwLCAiZG93biI6MH0=","CreateIndex":6,"ModifyIndex":6},{"LockIndex":0,"Key":"upstreams/test/127.0.0.1:11112","Flags":0,"Value":null,"CreateIndex":7,"ModifyIndex":7}]

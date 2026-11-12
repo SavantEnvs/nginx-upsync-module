@@ -1,0 +1,1 @@
+[{"Node":{"Node":"n1","Address":"10.0.0.1"},"Service":{"ID":"web1","Service":"web","Tags":["v1"],"Address":"10.0.0.1","Port":8080,"Weights":{"Passing":10,"Warning":1}},"Checks":[{"Node":"n1","CheckID":"serfHealth","Status":"passing"}]}]

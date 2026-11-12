@@ -1,0 +1,1 @@
+{"action":"get","node":{"key":"/upstreams/test","dir":true,"nodes":[{"key":"/upstreams/test/127.0.0.1:11111","value":"{\"weight\":1, \"max_fails\":2, \"fail_timeout\":10, \"down\":0}","modifiedIndex":10,"createdIndex":10},{"key":"/upstreams/test/127.0.0.1:11112","value":"{\"backup\":1}","modifiedIndex":11,"createdIndex":11}],"modifiedIndex":9,"createdIndex":9}}
